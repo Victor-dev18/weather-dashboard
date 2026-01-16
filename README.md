@@ -96,7 +96,7 @@ weather-dashboard/
 Adding a screenshot improves project visibility and recruiter interest.
 
 ```markdown
-![App Screenshot](screenshot.png)
+![App Screenshot](WeatherApp.png)
 ```
 
 Steps:
