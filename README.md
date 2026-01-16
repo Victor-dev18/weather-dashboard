@@ -13,6 +13,14 @@ This dashboard fetches live data from the **OpenWeatherMap API** to display temp
 
 ---
 
+## 🖼️ App Screenshot
+
+![Weather App Screenshot](WeatherApp.png)
+
+👉 **[Click here to view the Live App](https://weather-dashboard-victor.streamlit.app/)**
+
+---
+
 ## ✨ Features
 
 * 🌍 **Global City Search** – Works for any city supported by OpenWeatherMap
@@ -91,22 +99,7 @@ weather-dashboard/
 
 ---
 
-## 🖼️ Screenshot (Optional but Recommended)
 
-Adding a screenshot improves project visibility and recruiter interest.
-
-```markdown
-![App Screenshot](WeatherApp.png)
-```
-
-Steps:
-
-1. Run the app locally
-2. Take a screenshot
-3. Upload it to the GitHub repository
-4. Add the line above under the **Live Demo** section
-
----
 
 ## 🤝 Contributing
 
